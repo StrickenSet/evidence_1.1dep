@@ -1,0 +1,56 @@
+
+/* HEADER */
+
+.header > * {
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: middle;
+    height: 100px;
+    line-height: 45px;
+}
+
+.actions {
+    width: 70%;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+/* BODY */
+
+.publish h3{
+    font-family: "Alegreya", serif;
+    font-size: 40px;
+    line-height: 48px;
+    color: #025157;
+}
+
+.publish > p {
+    font-size: 16px;
+    color: #343434;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.publish > form {
+    display: flex;
+    color: #025157;
+    margin-right: 18px;
+}
+
+.inp {
+    display: flex;
+    color: #025157;
+    margin-left: 18px;
+}
+/* .publish > form p {
+    color: #025157;
+    margin-right: 18px;
+} */
+
+.promo{
+    display: flex;
+    width: 100%;
+}
+
